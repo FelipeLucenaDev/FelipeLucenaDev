@@ -2,60 +2,66 @@
 
 ### Software Developer | Software Engineering Student
 
-I'm a Software Engineering student focused on building practical software products and learning the engineering behind reliable applications.
+I'm a Software Engineering student focused on building practical software products and developing the engineering skills required to take applications from concept to production.
 
-My current work includes browser extensions, desktop applications, backend services, APIs, databases, testing, deployment, and software maintenance.
+My work currently includes browser extensions, desktop applications, backend services, APIs, databases, testing, deployment and software maintenance.
 
-I enjoy taking projects beyond the prototype stage — from architecture and implementation to testing, deployment, and continuous improvement.
+I am especially interested in software architecture, maintainability, debugging, product development and the complete software lifecycle.
 
 ---
 
 ## 🚀 Featured Projects
 
-### Baiak Idle Deluxe
+### [Baiak Idle Deluxe](https://github.com/FelipeLucenaDev/baiak-idle-deluxe)
 
-**Browser Extension · Production Product**
+**Production Browser Extension · Active Product**
 
-A browser extension developed as a complete software product, including application features, premium functionality, licensing infrastructure, backend services, deployment, and ongoing maintenance.
+Browser extension developed as a complete software product and currently used by real customers.
 
-The product is currently published and being used by real customers.
+The project involves:
 
-**Main areas involved:**
+- Browser extension architecture
+- JavaScript, HTML and CSS
+- Backend APIs
+- Licensing and product entitlements
+- Checkout integration
+- Cloud infrastructure
+- Automated testing
+- Manual browser QA
+- Release management
+- Production maintenance
 
-- Browser extension development
-- JavaScript
-- Backend services
-- REST APIs
-- Licensing systems
-- Payment integration
-- Cloud deployment
-- Testing and QA
-- Product maintenance
-
-> Public technical case study coming soon.
+📚 **Technical case study:**  
+[Architecture](https://github.com/FelipeLucenaDev/baiak-idle-deluxe/blob/main/docs/architecture.md) ·
+[Engineering Decisions](https://github.com/FelipeLucenaDev/baiak-idle-deluxe/blob/main/docs/engineering-decisions.md) ·
+[Release Process](https://github.com/FelipeLucenaDev/baiak-idle-deluxe/blob/main/docs/release-process.md)
 
 ---
 
-### Albion Analytics
+### [Albion Analytics](https://github.com/FelipeLucenaDev/albion-analytics)
 
-**Desktop Application · In Development**
+**Windows Desktop Application · Active Development**
 
-A Windows-first desktop analytics application built with .NET and Avalonia.
+Windows-first desktop analytics application built with C#/.NET and Avalonia.
 
-The project focuses on software architecture, local data processing, persistence, testing, dependency validation, build pipelines, and desktop UI development.
+The project focuses on:
 
-**Main technologies and areas:**
-
-- C#
-- .NET
-- Avalonia UI
-- SQLite
-- Software architecture
+- Desktop application architecture
+- Local data processing
+- SQLite persistence
+- Data import workflows
+- Logging and diagnostics
+- Dependency auditing
 - Automated testing
+- SBOM generation
 - Build validation
-- Desktop application development
+- Windows QA
 
-> Public repository and technical documentation coming soon.
+📚 **Technical case study:**  
+[Architecture](https://github.com/FelipeLucenaDev/albion-analytics/blob/main/docs/architecture.md) ·
+[Engineering Decisions](https://github.com/FelipeLucenaDev/albion-analytics/blob/main/docs/engineering-decisions.md) ·
+[Build Validation](https://github.com/FelipeLucenaDev/albion-analytics/blob/main/docs/build-validation.md) ·
+[Development Roadmap](https://github.com/FelipeLucenaDev/albion-analytics/blob/main/docs/development-roadmap.md)
 
 ---
 
@@ -65,44 +71,74 @@ The project focuses on software architecture, local data processing, persistence
 
 `JavaScript` · `C#` · `SQL` · `HTML` · `CSS`
 
-### Development
+### Application Development
 
-`.NET` · `Avalonia` · `Browser Extensions` · `REST APIs` · `SQLite`
+`.NET` · `Avalonia UI` · `Browser Extensions` · `REST APIs` · `SQLite`
 
-### Tools & Infrastructure
+### Infrastructure & Tooling
 
-`Git` · `GitHub` · `Cloudflare` · `Visual Studio Code` · `Chrome DevTools`
+`Git` · `GitHub` · `Cloudflare` · `Chrome DevTools` · `.NET CLI`
+
+### Engineering Practices
+
+`Software Architecture` · `Automated Testing` · `Manual QA` · `Dependency Auditing` · `SBOM` · `Release Validation`
 
 ---
 
 ## 🎓 Education
 
-**Software Engineering**
+### Software Engineering
 
-Currently studying Software Engineering while developing practical software projects and products.
+Currently studying Software Engineering while developing and maintaining practical software projects.
+
+My goal is to combine academic foundations with hands-on experience across the software development lifecycle.
 
 ---
 
-## 🌱 Currently Learning
+## 🔍 Areas of Interest
 
 - Software architecture
-- Clean code and maintainability
-- Git and GitHub workflows
-- Automated testing
 - Backend development
-- Desktop application architecture
-- Software deployment and infrastructure
+- Desktop applications
+- Browser extensions
+- Software testing
+- Debugging and diagnostics
+- Software security
+- Build and release engineering
+- Product development
 
 ---
 
 ## 📌 Current Focus
 
-I'm currently focused on improving my software engineering skills while developing and maintaining real-world applications.
+Currently working on:
 
-My portfolio is being built around documented projects, technical case studies, and production software.
+- Maintaining and evolving **Baiak Idle Deluxe** as a production product
+- Developing the first Windows **Basic Offline Alpha of Albion Analytics**
+- Improving my Git and GitHub workflows
+- Building my professional software engineering portfolio
+- Expanding my knowledge of software architecture and development practices
+
+---
+
+## 🌐 Portfolio
+
+My professional portfolio website is currently under development.
+
+It will include detailed project case studies, technical experience and information about my development work.
 
 ---
 
 ## 📫 Contact
+
+Professional contact links will be added as the portfolio evolves.
+
+---
+
+## About This GitHub
+
+This GitHub profile is focused on documenting my development work, engineering decisions and practical experience building software.
+
+Some commercial or security-sensitive source code remains private, while public repositories provide technical case studies and documentation about the projects.
 
 More professional links and my official portfolio website will be added soon.
